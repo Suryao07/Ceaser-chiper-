@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 project 1.py
+python3 Ceaserchiperpy
